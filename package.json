@@ -1,0 +1,28 @@
+{
+  "name": "byteworder.js",
+  "version": "0.0.4",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrivacyForge/byteWorder.js.git"
+  },
+  "author": "Mostafa Kheibary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrivacyForge/byteWorder.js/issues"
+  },
+  "homepage": "https://github.com/PrivacyForge/byteWorder.js#readme",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "package.json"
+  ]
+}
